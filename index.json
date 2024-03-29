@@ -1,4 +1,5 @@
 {
     "pycharm-ce": "apps/pycharm-ce",
-    "steam": "apps/steam"
+    "steam": "apps/steam",
+    "code": "apps/code"
 }
