@@ -2,5 +2,6 @@
     "pycharm-ce": "apps/pycharm-ce",
     "steam": "apps/steam",
     "code": "apps/code",
-    "discord": "apps/discord"
+    "discord": "apps/discord",
+    "anydesk": "apps/anydesk"
 }
