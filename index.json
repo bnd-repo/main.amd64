@@ -1,7 +1,20 @@
 {
-    "pycharm-ce": "apps/pycharm-ce",
-    "steam": "apps/steam",
-    "code": "apps/code",
-    "discord": "apps/discord",
-    "anydesk": "apps/anydesk"
+    "pycharm-ce": {
+	    "url": "apps/pycharm-ce",
+	    "version": "2024.1"
+    },
+    "steam": {
+	    "url": "apps/steam"
+    },
+    "code": {
+	    "url": "apps/code",
+	    "version": "code-stable-x64-1712770462"
+    },
+    "discord": {
+	    "url": "apps/discord",
+	    "version": ""
+    },
+    "anydesk": {
+	    "url": "apps/anydesk"
+    }
 }
