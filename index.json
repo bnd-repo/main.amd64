@@ -16,5 +16,9 @@
     },
     "anydesk": {
 	    "url": "apps/anydesk"
+    },
+    "golang": {
+	    "url": "tools/golang",
+	    "version": "1.23.0"
     }
 }
